@@ -24,12 +24,15 @@ Install the required packages:
 Training
 
 The training script supports various hyperparameters, including learning rate, batch size, depth, dropout, epochs, label smoothing, momentum, number of threads, rho, weight decay, and width factor. You can adjust these hyperparameters to train the model with different configurations.
+
 Evaluation
 
 The evaluation script calculates the precision and recall at k for the given model and dataset.
+
 Visualization
 
 The visualization script displays the query images and their nearest neighbors in the CIFAR-10 dataset using the Faiss index.
+
 Indexing
 
 The code includes two indexing methods: FlatL2 and IVFF (Inverted File with Flat Index). You can choose the desired indexing method by modifying the indexing_method variable in the visualization script.
