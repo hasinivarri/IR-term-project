@@ -1,4 +1,4 @@
-WideResNet with SAM Optimizer for CIFAR-10 Classification
+Indexing on WideResNet with SAM Optimizer for CIFAR-10 Classification
 
 This repository contains the implementation of WideResNet with Sharpness-Aware Minimization (SAM) optimizer for the CIFAR-10 dataset. The code is written in PyTorch and includes training, evaluation, and visualization of the model's performance.
 Requirements:
