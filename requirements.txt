@@ -1,0 +1,9 @@
+Python 3.7+
+PyTorch 1.8.0
+Torchvision 0.9.0
+Faiss 1.7.1
+Torchmetrics 0.11.0
+Matplotlib 3.4.2
+Numpy 1.21.0
+Pandas 1.3.0
+Scikit-learn 0.24.2
